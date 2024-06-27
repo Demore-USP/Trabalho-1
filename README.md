@@ -1,6 +1,6 @@
 # Trabalho-1
 Todo nosso trabalho desta disciplina está disponível na aba &lt;Código>. Para informações mais detalhadas, leia o README.
-Serão encontrados neste GIT 2 links e 5 arquivos, sendo eles, respectivamente:
+Serão encontrados neste GIT 2 links e 5 arquivos, sendo eles:
 
 ° Link para um vídeo no youtube sobre nosso grupo explicando tudo isso: https://youtu.be/AqMpn8PcUaA
 
