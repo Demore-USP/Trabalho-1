@@ -1,4 +1,4 @@
-# Trabalho-1
+# Trabalho Introdução a Sistemas Computacionais
 Todo nosso trabalho desta disciplina está disponível na aba &lt;Código>. Para informações mais detalhadas, leia o README.
 Serão encontrados neste GIT 2 links e 5 arquivos, sendo eles:
 
